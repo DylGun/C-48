@@ -96,6 +96,7 @@ function spawnBirds(){
       break;
       default: break;
     }
+     birdGroup.add(bird);
   }
 }
 
